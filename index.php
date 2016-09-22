@@ -5,6 +5,16 @@
   <meta charset="utf-8">
   <title>Traffic Offended Reporting Application</title>
   <link rel="stylesheet" type="text/css" href="css/style.css">
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+    #map {
+      height: 100%;
+    }
+  </style>
 </head>
 <body>
   <div id="map"></div>
